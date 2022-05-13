@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HQ/TV/nEW6hrx/dxtWN8B8c/bQ8BIUO03/fnZdjfYaIHkPjyZrOkAebbPgb6vxXqM0+/wtUbpMfG/e3ooLNOPQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\323\\source\\repos\\WpfApp2\\WpfApp2\\WpfApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\323\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
